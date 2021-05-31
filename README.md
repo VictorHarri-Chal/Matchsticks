@@ -17,4 +17,4 @@ However, in this case, your playing against an AI who plays randomly !
 ## Getting Started
 Execute ```make``` then ```./matchstick $[Nombre de lignes] $[Maximum d'allumettes par tour]```
 
-![MATCHSTICK](matchsticks.png)
+![MATCHSTICK](matchstick.png)
